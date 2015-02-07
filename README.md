@@ -1,8 +1,8 @@
 # mjolnir-sizeup
 SizeUp functionality clone with Mjolnir
 
-__I found it useful to do ```'rocks_servers = { "http://rocks.moonscript.org" }' > ~/.luarocks/config.lua```__
+_I found it useful to do ```'rocks_servers = { "http://rocks.moonscript.org" }' > ~/.luarocks/config.lua```_
 
 ## Requirements
 
-* luarocks install mjolnir.bg.grid
+* `luarocks install mjolnir.bg.grid`
